@@ -23,20 +23,20 @@
 </p>
 
 <img align="right" width=300px alt="Unicorn" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" />
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">***Talking about Personal Stuffs...***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp ***Skills***
 
-✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
-✔ I’m currently Developing **Paycron** Payment Gateway **@Plaxonic**<br>
-✔ I’m currently learning **ReactJS** & **NodeJS**<br>
-✔ I’m looking to collaborate with any **Open - Source contribution**<br>
-✔ I’m looking for help for learning **Remote Sensing**<br>
-✔ I regularly write articles on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/akash_chowrasia/articles) <br>
-✔ I use to write coad on [leetcode](https://leetcode.com/Akash_Chowrasia/) <br>
-✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
- 
+✔ Trabajar en equipo con una comunicación clara y concisa, participar de manera activa en reuniones de scrum, controlar los tiempos del proyecto y entrega puntual😉 <br>
+✔ Diseñar diseños creativos e interactivos de acuerdo a los requerimientos brindados del negocio con Figman y Photoshop. <br>
+✔ Desarrollar interfaces web responsive e interfaces móviles UI/UX con Angular, Flutter y FlutterFlow. <br>
+✔ Desarrollar la lógica y funcionalidad de los sistemas en APIs RESTful usando ORM en Spring Boot. <br>
+✔ Consumir e integrar APIs RESTful en los sistemas. <br>
+✔ Controlar las versiones y ramas de un proyecto en Git y alojamiento en GitHub. <br>
+✔ Elaborar y manejar el modelo de la base de datos. <br>
+✔ Implementar aplicaciones en entornos de contenedores Docker. <br>
+✔ Elaborar servidores locales en MV y Docker con despliege de sistemas. <br>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
+
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools***
 <p align="left">
   
   <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code><code> 
