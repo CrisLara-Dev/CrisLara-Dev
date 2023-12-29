@@ -6,7 +6,7 @@
 <h3 align="center">Systems Engineer | Full Stack Developer | Software Developer</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/cristian-lara-arcos-0475572a6/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
- <a href = "crislaradev@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+ <a href = "https://mail.google.com/mail/u/3/#inbox"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 </p>
 
