@@ -23,7 +23,8 @@
 </p>
 
 <img align="right" width=300px alt="Unicorn" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" />
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp ***Skills***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools***
+
 
 ✔ Trabajar en equipo con una comunicación clara y concisa, participar de manera activa en reuniones de scrum, controlar los tiempos del proyecto y entrega puntual😉 <br>
 ✔ Diseñar diseños creativos e interactivos de acuerdo a los requerimientos brindados del negocio con Figman y Photoshop. <br>
