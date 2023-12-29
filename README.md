@@ -36,7 +36,7 @@
 ✔ Implementar aplicaciones en entornos de contenedores Docker. <br>
 ✔ Elaborar servidores locales en MV y Docker con despliege de sistemas. <br>
 
-<br>
+
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools***
 <p align="left">
   
