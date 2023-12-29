@@ -8,8 +8,9 @@
 <a href="https://linkedin.com/in/abdoachhoubi" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/cristian-lara-arcos-0475572a6/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
- <a href = "https://mail.google.com/mail/u/3/#inbox"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+<a href="https://twitter.com/abdo_achhoubi" target="_blank">
+  <img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>
 </p>
 </p>
 
