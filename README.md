@@ -9,7 +9,7 @@
   <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://mail.google.com/mail/u/3/#inbox" target="_blank">
-  <img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=-D14836&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
 </p>
 </p>
