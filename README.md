@@ -18,8 +18,8 @@
 
 <p align="center">
   <em>
-    I am a university student in the <b>6th Cycle of Systems Engineering</b> at the <a href="https://upeu.edu.pe"> <b>Peruvian Union University</b></a>. <br>
-    Specialized in web and mobile development as a <b>Full Stack Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> Committed to continuous learning and creative problem solving. &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>Responsible, punctual, disciplined, persevering,  <b>dedicated to my profession and committed to my work.</b>
+    Soy estudiante universitario del <b>6to Ciclo de Ingeniería de Sistemas </b>,en la <a href="https://upeu.edu.pe"> <b>Universidad Peruana Unión</b></a>. <br>
+    Especializado en el desarrollo web y móvil como <b>Full Stack Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">Comprometido con el aprendizaje continuo y la resolución creativa de problemas. &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>Responsable, puntual, disciplinado, perseverante, <b>dedicado a mi profesión y comprometido con mi trabajo. </b>
      <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
   </em> 
   <br>
