@@ -30,10 +30,10 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Habilidades***
 
 
-✔ Trabajar en equipo con una comunicación clara y concisa, participar de manera activa en reuniones de scrum, controlar los tiempos del proyecto y entrega puntual😉. <br>
-✔ Diseñar diseños creativos e interactivos de acuerdo a los requerimientos brindados del negocio con Figman y Photoshop. <br>
-✔ Desarrollar interfaces web responsive e interfaces móviles UI/UX con Angular, Flutter y FlutterFlow. <br>
-✔ Desarrollar la lógica y funcionalidad de los sistemas en APIs RESTful usando ORM en Spring Boot. <br>
+✔ Trabajar en equipo con una comunicación clara y concisa, participar de manera activa en reuniones de Scrum, controlar los tiempos del proyecto y entrega puntual😉. <br>
+✔ Diseñar diseños creativos e interactivos de acuerdo a los requerimientos brindados del negocio. <br>
+✔ Desarrollar interfaces web responsive e interfaces móviles UI/UX. <br>
+✔ Desarrollar la lógica y funcionalidad de los sistemas en APIs RESTful usando ORM. <br>
 ✔ Consumir e integrar APIs RESTful en los sistemas. <br>
 ✔ Controlar las versiones y ramas de un proyecto en Git y alojamiento en GitHub. <br>
 ✔ Elaborar y manejar el modelo de la base de datos. <br>
