@@ -68,7 +68,7 @@
   ![TypeScript](https://img.shields.io/badge/typescript-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white)  
   ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-  ![Máquinas Virtuales](https://img.shields.io/badge/maquinasvirtuales-%2338B2AC.svg?style=for-the-badge&logo=maquinasvirtuales&logoColor=white) 
+  ![Máquinas Virtuales](https://img.shields.io/badge/maquinas-virtuales-%2338B2AC.svg?style=for-the-badge&logo=maquinasvirtuales&logoColor=white) 
 
   
 <br>
