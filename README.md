@@ -23,10 +23,7 @@
      <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>¡¡¡Aprendiendo mientras ESPERAMOS Y APROVECHAMOS!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
-</p>
-
-<img align="right" width=300px alt="Unicorn" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif"/> <br>
+  
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Habilidades***
 
 
