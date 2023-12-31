@@ -42,8 +42,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Lenguajes & Herramientas***
 <p align="left">
   
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code>
-  <code> <img src=https://img.shields.io/badge/html5-%2300acee.svg?color=405DE6&style=for-the-badge&logo=html5&logoColor=white alt=html5 style="margin-bottom: 5px;" /></code>
+  <code> <img height="50" src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png"></code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/dj.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/jp.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/docker-ar21.svg"> </code>
