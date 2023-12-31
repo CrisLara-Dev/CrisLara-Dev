@@ -48,10 +48,10 @@
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Angular](https://img.shields.io/badge/angular-%2320232a.svg?style=for-the-badge&logo=angular&logoColor=%2361DAFB) 
-  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+  ![Docker](https://img.shields.io/badge/Docker-%2300C4CC.svg?style=for-the-badge&logo=Docker&logoColor=white) 
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-%23CB3837.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Angular](https://img.shields.io/badge/Angular-%23CB3837.svg?style=for-the-badge&logo=angular&logoColor=white)
   <img height="50" src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png">
   <img height="50" src="https://cdn-icons-png.flaticon.com/512/136/136526.png">
   <img height="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_pug_icon_130225.png">
