@@ -67,7 +67,6 @@
   ![Figman](https://img.shields.io/badge/figman-%2320232a.svg?style=for-the-badge&logo=figman&logoColor=%2361DAFB) 
   ![Photoshop](https://img.shields.io/badge/photoshop-%2320232a.svg?style=for-the-badge&logo=photoshop&logoColor=%2361DAFB) 
   ![TypeScript](https://img.shields.io/badge/typescript-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-  ![Máquinas Virtuales](https://img.shields.io/badge/maquinasvirtuales-%2338B2AC.svg?style=for-the-badge&logo=maquinasvirtuales&logoColor=white) 
 
   
 <br>
@@ -75,6 +74,13 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Nota***
 ✔ Algunos proyectos están ocultos por la privacidad de los sistemas.
+
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Habilidades***
+✔ Trabajar en equipo con una comunicación clara y concisa, participar de manera activa en reuniones de Scrum, controlar los tiempos del proyecto y entrega puntual😉. <br>
+✔ Diseñar diseños creativos e interactivos de acuerdo a los requerimientos brindados del negocio. <br>
+✔ Desarrollar interfaces web responsive e interfaces móviles UI/UX. <br>
+✔ Desarrollar la lógica y funcionalidad de los sistemas en APIs RESTful usando ORM. <br>
+✔ Consumir e integrar APIs RESTful en los sistemas. <br>
 
 
 <hr>
