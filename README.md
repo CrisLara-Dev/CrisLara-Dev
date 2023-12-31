@@ -42,17 +42,34 @@
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
   ![Xml](https://img.shields.io/badge/xml-%23E34F26.svg?style=for-the-badge&logo=xml5&logoColor=white) 
+  ![Pug](https://img.shields.io/badge/pug-%23E34F26.svg?style=for-the-badge&logo=pug5&logoColor=white) 
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
   ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+  ![SCSS](https://img.shields.io/badge/SCSS-hotpink.svg?style=for-the-badge&logo=SCSS&logoColor=white) 
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=java&logoColor=%23F7DF1E) 
+  ![Dart](https://img.shields.io/badge/dart-%2320232a.svg?style=for-the-badge&logo=dart&logoColor=%2361DAFB)
   ![Angular](https://img.shields.io/badge/angular-%2320232a.svg?style=for-the-badge&logo=angular&logoColor=%2361DAFB) 
+  ![Flutter](https://img.shields.io/badge/flutter-%23563D7C.svg?style=for-the-badge&logo=flutter&logoColor=white)
+  ![FlutterFLow](https://img.shields.io/badge/flutterflow-%23563D7C.svg?style=for-the-badge&logo=flutterflow&logoColor=white)
+  ![SpringBoot](https://img.shields.io/badge/SpringBoot-%234ea94b.svg?style=for-the-badge&logo=springboot&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-%23CB3837.svg?style=for-the-badge&logo=php&logoColor=white)
+  ![Scrum](https://img.shields.io/badge/scrum-%2320232a.svg?style=for-the-badge&logo=scrum&logoColor=%2361DAFB) 
   ![Docker](https://img.shields.io/badge/Docker-%2300C4CC.svg?style=for-the-badge&logo=Docker&logoColor=white) 
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/postgresql-%23323330.svg?style=for-the-badge&logo=postgresql&logoColor=%23F7DF1E) 
+  ![MySQL](https://img.shields.io/badge/mysql-%23323330.svg?style=for-the-badge&logo=mysql&logoColor=%23F7DF1E) 
+  ![Oracle](https://img.shields.io/badge/oracle-%23323330.svg?style=for-the-badge&logo=oracle&logoColor=%23F7DF1E) 
+  ![Git](https://img.shields.io/badge/git-%2320232a.svg?style=for-the-badge&logo=git&logoColor=%2361DAFB) 
+  ![GitHub](https://img.shields.io/badge/github-%2320232a.svg?style=for-the-badge&logo=github&logoColor=%2361DAFB) 
+  ![APIs RESTful](https://img.shields.io/badge/APIsRESTful-%234ea94b.svg?style=for-the-badge&logo=apisrestful&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+
+  
+  ![TypeScript](https://img.shields.io/badge/typescript-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white)  
   ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-  ![Angular](https://img.shields.io/badge/Angular-%23CB3837.svg?style=for-the-badge&logo=angular&logoColor=white)
+
+  ![Máquinas Virtuales](https://img.shields.io/badge/maquinasvirtuales-%2338B2AC.svg?style=for-the-badge&logo=maquinasvirtuales&logoColor=white) 
+
   
 <br>
 
