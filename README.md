@@ -72,15 +72,9 @@
 <br>
 
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Nota***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Nota***<br>
 ✔ Algunos proyectos están ocultos por la privacidad de los sistemas.
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Habilidades***
-✔ Trabajar en equipo con una comunicación clara y concisa, participar de manera activa en reuniones de Scrum, controlar los tiempos del proyecto y entrega puntual😉. <br>
-✔ Diseñar diseños creativos e interactivos de acuerdo a los requerimientos brindados del negocio. <br>
-✔ Desarrollar interfaces web responsive e interfaces móviles UI/UX. <br>
-✔ Desarrollar la lógica y funcionalidad de los sistemas en APIs RESTful usando ORM. <br>
-✔ Consumir e integrar APIs RESTful en los sistemas. <br>
 
 
 <hr>
