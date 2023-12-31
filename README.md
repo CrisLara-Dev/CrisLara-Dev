@@ -25,7 +25,7 @@
   <br>
 
  
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Habilidades***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Habilidades***<br>
 ✔ Trabajar en equipo con una comunicación clara y concisa, participar de manera activa en reuniones de Scrum, controlar los tiempos del proyecto y entrega puntual😉. <br>
 ✔ Diseñar diseños creativos e interactivos de acuerdo a los requerimientos brindados del negocio. <br>
 ✔ Desarrollar interfaces web responsive e interfaces móviles UI/UX. <br>
@@ -40,11 +40,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Lenguajes & Herramientas***
 <p align="left">
 
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-  ![Xml](https://img.shields.io/badge/xml-%23E34F26.svg?style=for-the-badge&logo=xml5&logoColor=white) 
-  ![Pug](https://img.shields.io/badge/pug-%23E34F26.svg?style=for-the-badge&logo=pug5&logoColor=white) 
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Xml](https://img.shields.io/badge/xml-%23E34F26.svg?style=for-the-badge&logo=xml5&logoColor=white) ![Pug](https://img.shields.io/badge/pug-%23E34F26.svg?style=for-the-badge&logo=pug5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
   ![SCSS](https://img.shields.io/badge/SCSS-hotpink.svg?style=for-the-badge&logo=SCSS&logoColor=white) 
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
   ![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=java&logoColor=%23F7DF1E) 
