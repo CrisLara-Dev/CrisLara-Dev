@@ -43,8 +43,8 @@
 <p align="left">
   
   <code> <img height="50" src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png"></code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/dj.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/jp.svg"> </code>
+  <code> <img height="50" src="https://cdn-icons-png.flaticon.com/512/136/136526.png"> </code>
+  <code> <img height="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_pug_icon_130225.png"> Pug </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/docker-ar21.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/linux-ar21.svg"> </code>
