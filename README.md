@@ -50,7 +50,6 @@
   ![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=java&logoColor=%23F7DF1E) 
   ![Dart](https://img.shields.io/badge/dart-%2320232a.svg?style=for-the-badge&logo=dart&logoColor=%2361DAFB)
   ![Angular](https://img.shields.io/badge/Angular-%23CB3837.svg?style=for-the-badge&logo=angular&logoColor=white)
-  ![Angular](https://img.shields.io/badge/angular-%2320232a.svg?style=for-the-badge&logo=angular&logoColor=%2361DAFB) 
   ![Flutter](https://img.shields.io/badge/flutter-%23563D7C.svg?style=for-the-badge&logo=flutter&logoColor=white)
   ![FlutterFLow](https://img.shields.io/badge/flutterflow-%23563D7C.svg?style=for-the-badge&logo=flutterflow&logoColor=white)
   ![SpringBoot](https://img.shields.io/badge/SpringBoot-%234ea94b.svg?style=for-the-badge&logo=springboot&logoColor=white)
@@ -67,8 +66,7 @@
   ![Máquinas Virtuales](https://img.shields.io/badge/maquinasvirtuales-%2338B2AC.svg?style=for-the-badge&logo=maquinasvirtuales&logoColor=white) 
   ![Figman](https://img.shields.io/badge/figman-%2320232a.svg?style=for-the-badge&logo=figman&logoColor=%2361DAFB) 
   ![Photoshop](https://img.shields.io/badge/photoshop-%2320232a.svg?style=for-the-badge&logo=photoshop&logoColor=%2361DAFB) 
-  ![TypeScript](https://img.shields.io/badge/typescript-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white)  
-  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/typescript-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
   ![Máquinas Virtuales](https://img.shields.io/badge/maquinasvirtuales-%2338B2AC.svg?style=for-the-badge&logo=maquinasvirtuales&logoColor=white) 
 
   
