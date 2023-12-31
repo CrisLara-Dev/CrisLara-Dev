@@ -63,12 +63,13 @@
   ![GitHub](https://img.shields.io/badge/github-%2320232a.svg?style=for-the-badge&logo=github&logoColor=%2361DAFB) 
   ![APIs RESTful](https://img.shields.io/badge/APIsRESTful-%234ea94b.svg?style=for-the-badge&logo=apisrestful&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-
-  
+  ![Máquinas Virtuales](https://img.shields.io/badge/maquinasvirtuales-%2338B2AC.svg?style=for-the-badge&logo=maquinasvirtuales&logoColor=white) 
+  ![Figman](https://img.shields.io/badge/figman-%2320232a.svg?style=for-the-badge&logo=figman&logoColor=%2361DAFB) 
+  ![Photoshop](https://img.shields.io/badge/photoshop-%2320232a.svg?style=for-the-badge&logo=photoshop&logoColor=%2361DAFB) 
   ![TypeScript](https://img.shields.io/badge/typescript-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white)  
   ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-  ![Máquinas Virtuales](https://img.shields.io/badge/maquinas-virtuales-%2338B2AC.svg?style=for-the-badge&logo=maquinasvirtuales&logoColor=white) 
+  ![Máquinas Virtuales](https://img.shields.io/badge/maquinasvirtuales-%2338B2AC.svg?style=for-the-badge&logo=maquinasvirtuales&logoColor=white) 
 
   
 <br>
