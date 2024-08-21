@@ -25,6 +25,7 @@
   ![GitHub](https://img.shields.io/badge/github-%2320232a.svg?style=for-the-badge&logo=github&logoColor=%2361DAFB) 
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
   ![Argon](https://img.shields.io/badge/argon-%23563D7C.svg?style=for-the-badge&logo=argon&logoColor=white)
+  ![Angular Material](https://img.shields.io/badge/angular_material-%23563D7C.svg?style=for-the-badge&logo=angular_material&logoColor=white)
   ![Figman](https://img.shields.io/badge/figman-%2320232a.svg?style=for-the-badge&logo=figman&logoColor=%2361DAFB) 
   ![Photoshop](https://img.shields.io/badge/photoshop-%2320232a.svg?style=for-the-badge&logo=photoshop&logoColor=%2361DAFB) 
 
