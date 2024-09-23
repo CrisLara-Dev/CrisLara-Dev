@@ -34,7 +34,7 @@
 
 ### Socials:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/cristian-lara-arcos-0475572a6/)
-[![LinkedIn](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail&logoColor=e51212)](crislaradev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail&logoColor=e51212)](https://mail.google.com/mail/u/3/#inbox?compose=new)
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CrisLara-Dev&theme=github_dark) 
